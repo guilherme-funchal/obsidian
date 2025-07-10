@@ -30,6 +30,107 @@ Os CIPs são classificados em três tipos principais:
 
 #### 5. **Status**
 
+Claro! Vou explicar as **partes típicas de um CIP** e os **papéis envolvidos** no processo, conforme o padrão oficial de Cardano Improvement Proposals.
+
+---
+
+## Partes de um CIP (Cardano Improvement Proposal)
+
+Um CIP geralmente é estruturado com as seguintes seções:
+
+1. **Título (Title)**
+
+   * Nome claro e descritivo da proposta.
+
+2. **Número do CIP (CIP Number)**
+
+   * Identificador único atribuído quando a proposta é registrada.
+
+3. **Autor(es) (Authors)**
+
+   * Pessoas que criaram a proposta, com informações de contato.
+
+4. **Status**
+
+   * Indica o estágio da proposta, como:
+
+     * Draft (rascunho)
+     * Reviewing (em revisão)
+     * Accepted (aceito)
+     * Rejected (rejeitado)
+     * Final (finalizado)
+
+5. **Tipo (Type)**
+
+   * Classificação do CIP, por exemplo:
+
+     * Standard (padrão de protocolo)
+     * Process (processos e governança)
+     * Informational (informativo)
+
+6. **Área (Category)**
+
+   * Qual parte do ecossistema Cardano a proposta afeta, como:
+
+     * Node
+     * Wallet
+     * Metadata
+     * etc.
+
+7. **Resumo (Abstract)**
+
+   * Breve descrição do que a proposta aborda.
+
+8. **Rationale**
+
+   * Explicação do motivo e justificativa para a proposta.
+
+9. **Especificação (Specification)**
+
+   * Detalhes técnicos da proposta, formatos, algoritmos, processos.
+
+10. **Implementação (Implementation)**
+
+    * Status da implementação prática, se houver.
+
+11. **Referências (References)**
+
+    * Links e documentos relacionados.
+
+12. **Histórico de versões (Revision History)**
+
+    * Registro das atualizações do documento.
+
+---
+
+## Papéis no Processo de um CIP
+
+1. **Autor(es)**
+
+   * Criam e submetem a proposta.
+   * Responsáveis por mantê-la atualizada e responder dúvidas.
+
+2. **Revisores**
+
+   * Membros da comunidade ou especialistas que analisam o CIP.
+   * Comentam, sugerem melhorias, validam a proposta técnica.
+
+3. **Mantenedores (Maintainers)**
+
+   * Responsáveis pelo repositório oficial dos CIPs.
+   * Fazem o controle de versão, publicam as propostas e moderam o processo.
+
+4. **Comunitários**
+
+   * Participam da discussão, dão feedback público.
+   * Podem apoiar ou contestar a proposta.
+
+5. **Tomadores de decisão**
+
+   * Podem ser membros da equipe Cardano (IOHK, Emurgo, etc.) ou grupos de governança.
+   * Decidem se a proposta será adotada na rede.
+
+
 Os CIPs passam por diversos **status**, como:
 
 * `Draft` (rascunho)
