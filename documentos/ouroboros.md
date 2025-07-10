@@ -1,7 +1,3 @@
-Claro! Aqui está uma descrição clara e objetiva do **protocolo Ouroboros**, usado pela blockchain **Cardano**:
-
----
-
 ### 🌀 Protocolo Ouroboros: Descrição
 
 **Ouroboros** é o protocolo de **consenso Proof of Stake (PoS)** que fundamenta a segurança e a sustentabilidade da blockchain **Cardano**. Desenvolvido por pesquisadores liderados pela IOHK (Input Output Hong Kong), ele foi o **primeiro protocolo PoS comprovadamente seguro** com base em métodos formais de verificação matemática.
@@ -31,6 +27,4 @@ O protocolo evoluiu em diversas versões:
 
 Por não depender de grandes quantidades de energia como o Proof of Work, Ouroboros é um protocolo **ecologicamente eficiente** e **altamente escalável**, tornando Cardano ideal para aplicações em escala global.
 
----
 
-Se quiser, posso gerar uma versão resumida ou em formato de apresentação com tópicos visuais. Deseja isso?
