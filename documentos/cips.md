@@ -255,13 +255,6 @@ Claro! Aqui está uma **lista dos principais CIPs (Cardano Improvement Proposals
 
 ---
 
-Se quiser, posso:
-
-* Gerar essa lista como PDF ou Markdown.
-* Fazer um mapa visual com as categorias dos CIPs.
-* Filtrar os CIPs por área (NFTs, Governança, Smart Contracts, etc.)
-
-Deseja alguma dessas opções?
 
 
 [1]: https://github.com/Cerkoryn/CIPs?utm_source=chatgpt.com "GitHub - Cerkoryn/CIPs"
