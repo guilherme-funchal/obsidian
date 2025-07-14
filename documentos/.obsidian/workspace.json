@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proofs.md",
+                "file": "Questoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proofs"
+              "title": "Questoes"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "f8e763480544b458",
   "lastOpenFiles": [
+    "Proofs.md",
     "Projetos.md",
     "StakePool.md",
     "Cardano.md",
@@ -194,7 +195,6 @@
     "UTxO.md",
     "Roadmap_cardano.md",
     "Questoes.md",
-    "Proofs.md",
     "proofs.md",
     "Ouroboros.md",
     "projetos.md",
