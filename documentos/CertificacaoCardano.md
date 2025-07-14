@@ -1,3 +1,0 @@
-[[Fases Cardano]]
-[[Proofs]]
-[[Questões]]

@@ -1,4 +1,4 @@
-[![nmkr.io](https://images.openai.com/thumbnails/url/HbPnpnicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw42DQsINgo1KC3JMHRz1dW1KHaqNHAq9M4xKjQztExJLvcISgoNDvEL8DUJc05O8woNTwn1LisP8zZQKwYAj_Qn4A)](https://www.nmkr.io/)
+
 
 **NMKR** (anteriormente conhecido como **NFT‑MAKER.IO**) é uma plataforma poderosa de infraestrutura para **tokenização no ecossistema Cardano**, com foco principal em NFTs, tokens fungíveis e ativos do mundo real (RWAs) .
 

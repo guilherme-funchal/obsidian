@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questões.md",
+                "file": "cbca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questões"
+              "title": "cbca"
             }
           }
         ]
@@ -170,11 +170,27 @@
   },
   "active": "615a98d9262ef8a2",
   "lastOpenFiles": [
+    "fases.md",
+    "cbca.md",
+    "cips.md",
+    "demeter.md",
+    "FasesCardano.md",
+    "linguagens.md",
+    "nmkr.md",
+    "ouroboros.md",
+    "projetos.md",
+    "Proofs.md",
+    "proofs.md",
+    "Questoes.md",
+    "Roadmap_cardano.md",
+    "wallet.md",
+    "utxo_account_model.md",
+    "Cardano.md",
+    "obsidian",
     "Questões.md",
     "1_Revocation_registry.md",
     "Bem-vindo.md",
     "Certificação Cardano.md",
-    "Fases Cardano.md",
-    "Proofs.md"
+    "Fases Cardano.md"
   ]
 }

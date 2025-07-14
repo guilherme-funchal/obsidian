@@ -1,4 +1,4 @@
-**Roadmap oficial da Cardano**, com foco nas **eras de desenvolvimento**, seus objetivos principais e os marcos alcançados:
+Roadmap oficial da Cardano, com foco nas **eras de desenvolvimento**, seus objetivos principais e os marcos alcançados:
 
 ---
 
