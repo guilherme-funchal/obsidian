@@ -124,5 +124,203 @@
 * **Is a random number that miners add to the block data**
 
 
+### **20. CIP-0030**
+
+**P:** Qual é o propósito do CIP-0030 no ecossistema Cardano?
+**R:** Serve como uma ponte para comunicação entre DApps e carteiras Cardano.
+
+---
+
+### **21. NFTs no Cardano**
+
+**P:** Verdadeiro ou Falso: Existe mais de uma proposta para padronizar NFT no Cardano?
+**R:** Verdadeiro. Exemplos: CIP-25, CIP-68.
+
+---
+
+### **22. CIP-0057 (Plutus Core)**
+
+**P:** Por que o CIP-0057 foi introduzido?
+**R:** Para alinhar o desenvolvimento de linguagens de programação alternativas para contratos inteligentes.
+
+---
+
+### **23. Demeter.run**
+
+**P:** Qual funcionalidade NÃO é oferecida pelo Demeter.run?
+**R:** Plataforma de cunhagem de NFT.
+
+---
+
+### **24. Carteiras de Nó Completo**
+
+**P:** Quais são carteiras de 'nó completo'?
+**R:** Daedalus.
+
+---
+
+### **25. Staking Líquido**
+
+**P:** Qual afirmação NÃO é verdadeira sobre staking líquido?
+**R:** "Há um período de espera antes de acessar sua ADA" e "Todas as blockchains PoS têm staking líquido".
+
+---
+
+### **26. SPO**
+
+**P:** SPO é a sigla para?
+**R:** Operador de Pool de Stake.
+
+---
+
+### **27. Recompensas de Staking**
+
+**P:** Se delegar na Época N, quando recebe as primeiras recompensas?
+**R:** Época N+2.
+
+---
+
+### **28. Seleção de Stake Pools**
+
+**P:** O que NÃO é uma consideração ao selecionar um pool?
+**R:** O pool deve estar no mesmo país que você.
+
+---
+
+### **29. Delegação da Fundação Cardano**
+
+**P:** Com que frequência a Fundação Cardano rotaciona delegações?
+**R:** A cada 12 meses.
+
+---
+
+### **30. Ativos Nativos**
+
+**P:** Um ativo nativo é governado por qual?
+**R:** Sua política (minting policy).
+
+---
+
+### **31. Casos de Uso de NFTs**
+
+**P:** O que NÃO é um caso de uso de NFT?
+**R:** Sua senha de login.
+
+---
+
+### **32. Padrões de Metadados**
+
+**P:** Quais são padrões de metadados?
+**R:** CIP-25, CIP-68, CIP-60 (Todas acima).
+
+---
+
+### **33. Tokens de Utilidade vs. Segurança**
+
+**P:** Tokens de utilidade são fungíveis com tokens de segurança?
+**R:** Falso.
+
+---
+
+### **34. DEXs no Cardano**
+
+**P:** Como são executados pedidos em uma DEX?
+**R:** Off-chain.
+
+---
+
+### **35. Perda Impermanente (IL)**
+
+**P:** Quais afirmações são verdadeiras sobre IL?
+**R:**
+
+* É um risco para provedores de liquidez.
+* Você pode perder dinheiro se o preço mudar após o depósito.
+
+---
+
+### **36. Tipos de DEX**
+
+**P:** Quais são os dois principais tipos de DEX?
+**R:**
+
+* Fabricante de mercado automatizado (AMM)
+* Modelo de livro de pedidos
+
+---
+
+### **37. Prova de Trabalho (PoW) vs. Prova de Participação (PoS)**
+
+**P:** Afirmações corretas sobre PoW e PoS?
+**R:**
+
+* PoW usa poder de hash
+* PoS refere-se à moeda nativa
+
+---
+
+### **38. Slashing em PoS**
+
+**P:** Afirmações corretas sobre slashing?
+**R:**
+
+* Penaliza comportamentos maliciosos
+* Foi projetado para sancionar adversários
+
+---
+
+### **39. Algoritmos Híbridos**
+
+**P:** Por que são úteis?
+**R:** Reduzem fraquezas de algoritmos individuais.
+
+---
+
+### **40. Prova de Autoridade (PoA)**
+
+**P:** O que a diferencia do PoS?
+**R:** Exige reputação e investimento financeiro.
+
+---
+
+### **41. Prova de Atividade (PoA)**
+
+**P:** Afirmação verdadeira?
+**R:** Combina PoW (mineração) e PoS (validação).
+
+---
+
+### **42. Prova de Importância (PoI)**
+
+**P:** O que a diferencia do PoS?
+**R:** Avalia contribuições além do stake financeiro.
+
+---
+
+### **43. Prova de Queimadura (PoB)**
+
+**P:** Afirmação INCORRETA?
+**R:** "Apenas primeiros adotantes podem queimar moedas".
+
+---
+
+### **44. Prova de Espaço (PoSpace)**
+
+**P:** Afirmações corretas?
+**R:**
+
+* "Parcelas" são conjuntos de dados em discos
+* Mais parcelas = maior chance de gerar blocos
+
+---
+
+### **45. Prova de Tempo Decorrido (PoET)**
+
+**P:** Como um produtor gera blocos?
+**R:** Espera um tempo aleatório de uma fonte confiável.
+
+
+
+
 
 
