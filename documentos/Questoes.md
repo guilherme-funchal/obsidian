@@ -208,3 +208,13 @@ Resposta:
 Store private keys 
 Show account balances 
 Monitor addresses 
+
+**Select the correct statements about mini protocols.**
+
+Choose 3
+- The block-fetch mini-protocol is used to negotiate block headers and securely fetch blocks from peers
+- All mini-protocols have the same purpose
+- The local-tx-submission protocol offers a secure mechanism to submit transactions with a warning system for invalid transactions
+
+**What did Bitcoin Improvement Proposal BIP-39 introduce?**
+- A process for turning random seeds into sets of predefined words
