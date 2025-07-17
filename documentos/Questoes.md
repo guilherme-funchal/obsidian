@@ -1,7 +1,3 @@
-Claro! Aqui está o conteúdo no formato `.md` (Markdown), com todas as perguntas e as **respostas corretas** selecionadas até a questão 45 do módulo Cardano:
-
----
-
 # 📘 Cardano Questions and Answers
 
 > Respostas corretas destacadas em **negrito**.
