@@ -319,28 +319,126 @@
 **P:** Como um produtor gera blocos?
 **R:** Espera um tempo aleatório de uma fonte confiável.
 
-46. What’s generally true about sharding?
+46. What distinguishes a block header from a block body in the structure of a blockchain block?
+
+**Answer:**  
+The block header acts as a short identifier of the block and its producer and provides proof of entitlement to produce the block, while the block body contains a list of transactions
+
+---
+
+47. Which of the following statements about Cardano’s block time are correct? (Choose 3)
+
+**Answer:**  
+- Cardano’s block time helps support a maximum block size of 88 kilobytes  
+- Block time refers to the average production time between two consecutive blocks  
+- Cardano adds a new block approximately every 20 seconds
+
+---
+
+48. Which of the following statements accurately describes Chain Growth, Common Prefix, and Chain Quality in the context of blockchain?
+
+**Answer:**  
+Chain Growth - the speed at which new blocks are added to the chain; Common Prefix - the part of the chain that can be trusted in an honest node's local chain; Chain Quality - the proportion of honest blocks in an honest node's chain
+
+---
+
+49. Select two correct statements about how to avoid double-spending attacks.
+
+**Answer:**  
+- The number of blocks the user should wait for before accepting a transaction depends on the block generation power held by potential attackers  
+- Waiting before confirming a transaction assures the user that a fork will not appear in the blockchain and that the tokens are indeed theirs
+
+---
+
+50. What happens during a hard fork in a blockchain protocol?
+
+**Answer:**  
+A hard fork requires all nodes to upgrade to the latest protocol version otherwise the network could split between those using the new and old protocols
+
+---
+
+51. Cardano’s Vasil upgrade in September 2022 was a soft fork that added innovative features to Cardano, including improved performance.
+
+**Answer:**  
+True — It was a soft fork introducing performance improvements
+
+---
+
+52. Select the correct statements about block rewards. (Choose 2)
+
+**Answer:**  
+- Block rewards are consistent and known in advance  
+- The halving of a block reward can encourage energy efficiency among miners to remain profitable
+
+---
+
+53. Which of the following is NOT true of transaction fees?
+
+**Answer:**  
+Fixed and calculated in the same way for all blockchains
+
+---
+
+54. Select the correct statements about Preview and PreProd. (Choose 2)
+
+**Answer:**  
+- The PreProd network is meant to simulate mainnet conditions for DApps  
+- The Preview network is where new software is deployed
+
+---
+
+55. PS (Transaction Per Second) is an accurate measure to compare different blockchain networks and protocols.
+
+**Answer:**  
+False
+
+---
+
+56. What are the primary functions of Ogmios in the Nebula app? (Choose 3)
+
+**Answer:**  
+- Creating transactions involved in the Nebula protocol  
+- Simplifying communication protocols  
+- Assisting in transaction operations
+
+---
+
+57. Which software development kit (SDK) did Nebula utilize for creating transactions?
+
+**Answer:**  
+Lucid
+
+---
+
+58. In which scenario is pipelining most efficient?
+
+**Answer:**  
+When there is a significant idle time between tasks and one actor waits for another
+
+---
+
+59. What’s generally true about sharding?
 
 **Answer:**  
 All shards perform a similar task with different data
 
 ---
 
-47. In the context of the eventual consistency technique, what does a ‘transient state’ refer to?
+60. In the context of the eventual consistency technique, what does a ‘transient state’ refer to?
 
 **Answer:**  
 A temporary state before data is written to disk
 
 ---
 
-48. Which statement best describes participants in a state channel?
+61. Which statement best describes participants in a state channel?
 
 **Answer:**  
 Participants must be set at the channel's start and can't be added later
 
 ---
 
-49. Select 2 correct statements on rollups as a layer 2 scalability solution.
+62. Select 2 correct statements on rollups as a layer 2 scalability solution.
 
 **Answer:**  
 - It's a bundle of off-chain transactions published on-chain as one transaction  
@@ -348,42 +446,42 @@ Participants must be set at the channel's start and can't be added later
 
 ---
 
-50. Which of the following statements is true about the efficiency of optimistic rollups?
+63. Which of the following statements is true about the efficiency of optimistic rollups?
 
 **Answer:**  
 They become inefficient if all transactions are disputed
 
 ---
 
-51. In the context of rollups, why are zero-knowledge proofs beneficial?
+64. In the context of rollups, why are zero-knowledge proofs beneficial?
 
 **Answer:**  
 They confirm the transaction sequence without redoing all transactions
 
 ---
 
-52. Why can operating a zero-knowledge rollup be costly?
+65. Why can operating a zero-knowledge rollup be costly?
 
 **Answer:**  
 It requires high-end hardware due to the resources needed to generate a proof
 
 ---
 
-53. What is the main role of validator nodes in optimistic rollups?
+66. What is the main role of validator nodes in optimistic rollups?
 
 **Answer:**  
 To oversee and challenge optimistic rollup aggregators when needed
 
 ---
 
-54. What better reflects Cardano’s development approach?
+67. What better reflects Cardano’s development approach?
 
 **Answer:**  
 Evidence-based science and rigorous software development
 
 ---
 
-55. Select the correct statements about peer reviews.
+68. Select the correct statements about peer reviews. (Choose 2)
 
 **Answer:**  
 - The process of peer review ensures credibility, reliability and well-designed research  
@@ -391,10 +489,11 @@ Evidence-based science and rigorous software development
 
 ---
 
-56. What was the main objective of the Byron phase in Cardano's development?
+69. What was the main objective of the Byron phase in Cardano's development?
 
 **Answer:**  
 To build a strong foundation for future phases of the Cardano roadmap
+
 
 
 
