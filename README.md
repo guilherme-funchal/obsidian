@@ -23,18 +23,18 @@ Este repositório contém:
 - ✅ Links úteis para documentações oficiais
 
 ## 🧠 Indice de documentos
-[FasesCardano](documentos/FasesCardano.md)
-[Linguagens](documentos/Linguagens.md)  
-[Projetos](documentos/Projetos.md)
-[[Proofs]](documentos/Proofs.md)
-[[Roadmap_cardano](documentos/Roadmap_Cardano.md)
-[Wallets](documentos/Wallet.md)
-[CBCA](documentos/CBCA.md)     
-[Demeter](documentos/Demeter.md)  
-[Fases](documentos/Fases.md)
-[[NMKR]](documentos/NMKR.md)
-[Ouroboros](documentos/Ouroboros.md)
-[Questoes](documentos/Questoes.md)  
-[UTxO](documentos/UTxO.md)
+- [FasesCardano](documentos/FasesCardano.md)
+- [Linguagens](documentos/Linguagens.md)  
+- [Projetos](documentos/Projetos.md)
+- [Proofs](documentos/Proofs.md)
+- [Roadmap_cardano](documentos/Roadmap_Cardano.md)
+- [Wallets](documentos/Wallet.md)
+- [CBCA](documentos/CBCA.md)     
+- [Demeter](documentos/Demeter.md)  
+- [Fases](documentos/Fases.md)
+- [NMKR](documentos/NMKR.md)
+- [Ouroboros](documentos/Ouroboros.md)
+- [Questoes](documentos/Questoes.md)  
+- [UTxO](documentos/UTxO.md)
 
 
