@@ -319,6 +319,84 @@
 **P:** Como um produtor gera blocos?
 **R:** Espera um tempo aleatório de uma fonte confiável.
 
+46. What’s generally true about sharding?
+
+**Answer:**  
+All shards perform a similar task with different data
+
+---
+
+47. In the context of the eventual consistency technique, what does a ‘transient state’ refer to?
+
+**Answer:**  
+A temporary state before data is written to disk
+
+---
+
+48. Which statement best describes participants in a state channel?
+
+**Answer:**  
+Participants must be set at the channel's start and can't be added later
+
+---
+
+49. Select 2 correct statements on rollups as a layer 2 scalability solution.
+
+**Answer:**  
+- It's a bundle of off-chain transactions published on-chain as one transaction  
+- All rollups process computations off-chain and post a compressed version to layer 1
+
+---
+
+50. Which of the following statements is true about the efficiency of optimistic rollups?
+
+**Answer:**  
+They become inefficient if all transactions are disputed
+
+---
+
+51. In the context of rollups, why are zero-knowledge proofs beneficial?
+
+**Answer:**  
+They confirm the transaction sequence without redoing all transactions
+
+---
+
+52. Why can operating a zero-knowledge rollup be costly?
+
+**Answer:**  
+It requires high-end hardware due to the resources needed to generate a proof
+
+---
+
+53. What is the main role of validator nodes in optimistic rollups?
+
+**Answer:**  
+To oversee and challenge optimistic rollup aggregators when needed
+
+---
+
+54. What better reflects Cardano’s development approach?
+
+**Answer:**  
+Evidence-based science and rigorous software development
+
+---
+
+55. Select the correct statements about peer reviews.
+
+**Answer:**  
+- The process of peer review ensures credibility, reliability and well-designed research  
+- Peer reviews are done anonymously to avoid bias
+
+---
+
+56. What was the main objective of the Byron phase in Cardano's development?
+
+**Answer:**  
+To build a strong foundation for future phases of the Cardano roadmap
+
+
 
 
 
