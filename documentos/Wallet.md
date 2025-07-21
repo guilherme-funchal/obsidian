@@ -104,6 +104,3 @@ São usadas em conjunto com softwares como:
 | Hardware     | Ledger       | Muito alta | Grandes quantias, segurança |
 | Multisig     | Customizadas | Alta       | Times, empresas             |
 
----
-
-Se quiser, posso sugerir a melhor carteira com base no seu caso de uso (ex: delegação, segurança, uso com dApps, etc.). Deseja isso?

@@ -75,7 +75,3 @@ Um **stake pool** na **Cardano** é um **nó da rede** (node) que participa do p
     
 4. Guilherme recebe sua parte proporcionalmente, todo **epoch** (~5 dias).
     
-
----
-
-Se quiser, posso te mostrar como **delegar** ADA usando carteiras como **Yoroi**, **Daedalus** ou **Eternl**. Deseja isso?

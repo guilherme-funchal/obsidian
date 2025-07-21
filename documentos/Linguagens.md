@@ -86,7 +86,3 @@ Aqui estão as principais linguagens usadas:
 | Contratos inteligentes | **Plutus**, **Marlowe**, **Haskell**                |
 | dApps / Frontend       | **TypeScript**, **JavaScript**, **Rust** (via WASM) |
 | Ferramentas / Scripts  | **Python**, **Rust**, **Shell scripts**             |
-
----
-
-Se quiser, posso indicar **qual linguagem aprender primeiro**, dependendo do seu objetivo (dApps, contratos inteligentes, participação no núcleo, etc). Deseja isso?

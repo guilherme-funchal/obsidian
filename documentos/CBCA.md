@@ -1,4 +1,4 @@
-Claro! A prova **CBCA – Cardano Blockchain Certified Associate** avalia conhecimentos fundamentais sobre a blockchain Cardano e seu ecossistema. A **Cardano Foundation** disponibiliza um **guia oficial de estudos** que organiza os temas em **tópicos específicos**.
+A prova **CBCA – Cardano Blockchain Certified Associate** avalia conhecimentos fundamentais sobre a blockchain Cardano e seu ecossistema. A **Cardano Foundation** disponibiliza um **guia oficial de estudos** que organiza os temas em **tópicos específicos**.
 
 Abaixo está uma **lista abrangente de tudo que é cobrado na prova**, organizada por seções com os tópicos detalhados:
 
