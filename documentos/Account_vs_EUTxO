@@ -1,0 +1,125 @@
+# Diferença entre Modelo de Contas e EUTxO
+
+Uma das principais distinções entre blockchains está no modelo de **representação de estado e execução de transações**. Os dois principais são:
+
+- **Modelo de Contas (Account Model)**
+- **Modelo EUTxO (Extended Unspent Transaction Output)**
+
+---
+
+## 📘 Modelo de Contas (Account Model)
+
+**Usado em:** Ethereum, BNB Chain, Solana (com variações)
+
+### 🛠️ Funcionamento
+
+- Cada usuário tem uma **conta com saldo**.
+- Transações atualizam diretamente os **saldos das contas**.
+- Toda a blockchain mantém um **mapa global de contas**.
+- Um contrato pode **chamar diretamente outro contrato** e alterar seu estado.
+
+### ✅ Vantagens
+
+- Fácil de entender e programar.
+- Execução sequencial facilita chamadas entre contratos.
+- Bom para DeFi e aplicações com lógica encadeada.
+
+### ❌ Desvantagens
+
+- Menor previsibilidade: efeitos colaterais são comuns.
+- Maior risco de **condições de corrida** e vulnerabilidades como reentrância.
+
+---
+
+## 🧱 Modelo EUTxO (Extended UTxO)
+
+**Usado em:** Cardano, Ergo
+
+### 🛠️ Funcionamento
+
+- O estado é um **conjunto de UTxOs** (saídas de transações não gastas).
+- Transações **consomem UTxOs e criam novos**.
+- Cada UTxO pode conter **valor, dados (`datum`) e um script**.
+- A lógica do contrato acontece na **validação da transação** (não dentro do contrato).
+
+### ✅ Vantagens
+
+- Alta previsibilidade: contratos são **sem efeitos colaterais**.
+- Ideal para **verificação formal** e segurança.
+- Permite fácil paralelização.
+
+### ❌ Desvantagens
+
+- Programação mais complexa.
+- Difícil modelar interações dinâmicas entre contratos em uma única transação.
+
+---
+
+## ⚖️ Comparação Lado a Lado
+
+| Aspecto                        | Modelo de Contas                        | Modelo EUTxO                            |
+|-------------------------------|-----------------------------------------|-----------------------------------------|
+| Representação de estado       | Mapa de contas                          | Conjunto de UTxOs                       |
+| Atualização de estado         | Modificação direta                      | Consome e cria UTxOs                    |
+| Interação entre contratos     | Direta (chamada entre contratos)        | Indireta (composição de UTxOs)          |
+| Efeitos colaterais            | Possíveis                               | Não existem                             |
+| Previsibilidade               | Menor                                   | Alta                                    |
+| Facilidade de composição      | Alta                                    | Exige estrutura                          |
+| Exemplo de uso                | Ethereum                                | Cardano                                 |
+
+---
+
+## 📦 Exemplo Comparativo de Código
+
+### 🧾 Modelo de Contas (Solidity - Ethereum)
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract MeuToken {
+    mapping(address => uint256) public saldos;
+
+    constructor() {
+        saldos[msg.sender] = 1000;
+    }
+
+    function transferir(address destinatario, uint256 valor) public {
+        require(saldos[msg.sender] >= valor, "Saldo insuficiente");
+        saldos[msg.sender] -= valor;
+        saldos[destinatario] += valor;
+    }
+}
+```
+
+- Saldo armazenado num `mapping`.
+- Estado atualizado diretamente dentro da função `transferir`.
+
+---
+
+### 🧱 Modelo EUTxO (Plutus - Cardano, pseudo-código)
+
+```haskell
+data Ação = Transferir PubKeyHash Integer
+
+validate :: Ação -> ScriptContext -> Bool
+validate (Transferir destino valor) ctx =
+    traceIfFalse "Destino inválido" $
+      valorEnviadoPara ctx destino >= valor
+```
+
+- A transação **consome um UTxO** com script.
+- O script **valida a transação** sem alterar estado global.
+- O novo estado surge da **criação de novos UTxOs**.
+
+---
+
+## 📌 Resumo Visual
+
+```plaintext
+Modelo de Contas (Ethereum)
+[Conta A: 100] --> chamada → contrato → atualiza mapeamento → [Conta B: 100]
+
+Modelo EUTxO (Cardano)
+[UTxO A: 100] --> transação válida → consome A + cria [UTxO B: 100]
+```
