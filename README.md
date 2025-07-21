@@ -36,5 +36,8 @@ Este repositório contém:
 - [Ouroboros](documentos/Ouroboros.md)
 - [Questoes](documentos/Questoes.md)  
 - [UTxO](documentos/UTxO.md)
+- [Account model VS EUTxO](documentos/Account_vs_EUTxO.md)
+- [Nakamoto_vs_BFT](Nakamoto_vs_BFT.md)
+- [Ecosystem](Ecosystem.md)
 
 
