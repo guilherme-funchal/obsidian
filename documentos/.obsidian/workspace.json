@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wallet.md",
+                "file": "Ouroboros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wallet"
+              "title": "Ouroboros"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "f8e763480544b458",
   "lastOpenFiles": [
+    "Wallet.md",
     "UTxO.md",
     "StakePool.md",
     "Roadmap_cardano.md",
@@ -201,7 +202,6 @@
     "CIPS.md",
     "CBCA.md",
     "Cardano.md",
-    "Wallet.md",
     "Cardano.md~",
     "proofs.md",
     "projetos.md",
