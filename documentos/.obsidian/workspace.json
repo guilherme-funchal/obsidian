@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questoes.md",
+                "file": "Cardano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questoes"
+              "title": "Cardano"
             }
           }
         ],
@@ -185,24 +185,24 @@
   },
   "active": "f8e763480544b458",
   "lastOpenFiles": [
-    "Proofs.md",
-    "Projetos.md",
-    "StakePool.md",
-    "Cardano.md",
+    "Linguagens.md",
+    "FasesCardano.md",
+    "Demeter.md",
+    "CIPS.md",
     "CBCA.md",
-    "Cardano.md~",
+    "Cardano.md",
     "Wallet.md",
     "UTxO.md",
-    "Roadmap_cardano.md",
-    "Questoes.md",
-    "proofs.md",
+    "StakePool.md",
     "Ouroboros.md",
+    "Projetos.md",
+    "Proofs.md",
+    "Questoes.md",
+    "Cardano.md~",
+    "Roadmap_cardano.md",
+    "proofs.md",
     "projetos.md",
-    "Linguagens.md",
-    "Demeter.md",
     "fases.md",
-    "CIPS.md",
-    "FasesCardano.md",
     "NMKR.md",
     "obsidian",
     "Questões.md",
