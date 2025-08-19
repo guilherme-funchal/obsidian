@@ -586,3 +586,154 @@ R. A distributed network where multiple nodes have equal voting power.
 196) The multi-asset ledger enables Cardano to accommodate multiple token types, including native tokens, simultaneously with ADA.  
 R. It allows the blockchain to support various tokens alongside ADA without additional layers  
 
+ 
+
+197) Which design principle is a cornerstone of Cardano’s overall architecture?  
+R. Peer-reviewed research and evidence-based development  
+
+198) How can community governance structures influence project development within Cardano?  
+R. By ensuring that community votes and feedback guide decision-making  
+
+199) What does the term 'off-chain code' refer to in Cardano's smart contract ecosystem?  
+R. Code that runs outside the blockchain  
+
+200) Which feature of Cardano is most beneficial for healthcare data management?  
+R. Decentralized storage with secure patient record keeping  
+
+201) How does the concept of 'active slot coefficient' influence Ouroboros?  
+R. It sets the probability of each slot being active  
+
+202) In the context of Cardano's native tokens, what is burning?  
+R. The process of removing tokens from circulation permanently  
+
+203) What is the role of a stake pool in the Cardano ecosystem?  
+R. To consolidate the stake of multiple users and produce blocks  
+
+204) What does it mean to have a 'cold wallet' in the Cardano ecosystem?  
+R. A wallet that stores private keys offline for enhanced security.  
+
+205) What is the purpose of integrating metadata into Cardano’s transaction model?  
+R. To attach additional information to transactions for increased context  
+
+206) How do strategic partnerships influence Cardano's innovation roadmap?  
+R. By providing diverse insights and resource sharing to accelerate progress  
+
+207) What distinguishes a public blockchain from a private one?  
+R. Public blockchains are open for anyone to join and validate transactions, while private blockchains are restricted to authorized participants  
+
+208) Which tool is often used in conjunction with Plutus for testing smart contracts?  
+R. Plutus Playground  
+
+209) What does the term 'attack surface' refer to in blockchain systems?  
+R. All potential points where unauthorized access could be gained  
+
+210) How does Cardano ensure decentralization through its roadmap strategy?  
+R. By initiating multiple community-driven phases  
+
+211) Which aspect of smart contract development is emphasized by Cardano’s design philosophy?  
+R. Formal methods and high assurance  
+
+212) Why is formal verification important in the context of Plutus smart contracts?  
+R. It mathematically proves the correctness of contracts  
+
+213) What is a blockchain fork?  
+R. A divergence in the blockchain creating two potential paths forward  
+
+214) How can Cardano contribute to the automation of business processes?  
+R. By enabling smart contracts that execute automatically when conditions are met  
+
+215) What approach is taken to integrate new features in Cardano’s future updates?  
+R. Incremental integration with thorough testing  
+
+216) What is a primary outcome of Cardano's collaboration with research institutions?  
+R. The development of scientifically validated protocols  
+
+217) Why is regular wallet backup considered crucial for Cardano users?  
+R. It allows recovery of the wallet’s private keys and funds in case of loss or damage.  
+
+218) Which process involves reviewing blockchain smart contract code for vulnerabilities?  
+R. Smart contract auditing  
+
+219) How does multi-signature address security concerns in blockchain networks?  
+R. By requiring multiple approvals for transactions  
+
+220) How does the Computation Layer support smart contract operations on Cardano?  
+R. By offering Turing-complete scripting languages in a dedicated environment  
+
+221) What distinguishes Cardano's approach to smart contract safety?  
+R. Using formally verified programming languages like Plutus  
+
+222) What does the term 'multi-asset support' refer to in Cardano?  
+R. The ability of the blockchain to handle multiple types of tokens alongside ADA  
+
+223) How does Cardano ensure privacy in its transactions?  
+R. By using a fully anonymous blockchain model.  
+
+224) Which update phase is known for integrating advanced consensus protocols?  
+R. Basho  
+
+225) What aspect of interoperability improves the overall utility of blockchain assets?  
+R. Tokenization of real-world assets  
+
+226) Which design principle is essential for maintaining efficiency in interoperable networks?  
+R. Modularity in system components  
+
+227) How does Cardano ensure that the rules for a native token remain consistent over time?  
+R. Through immutable policy scripts that govern token behavior  
+
+228) Which language is targeted for end-users by Marlowe on Cardano?  
+R. Domain-specific language for financial contracts  
+
+229) Which method is often employed to verify the authenticity of messages between blockchains?  
+R. Hash functions combined with digital signatures  
+
+230) What is a delegated stake pool in the context of Cardano?  
+R. A separate blockchain dedicated to smart contract execution.  
+
+231) What role do policy IDs play in Cardano's native tokens system?  
+R. They serve as unique identifiers that distinguish different native tokens  
+
+232) Which method is most effective for fostering trust among Cardano community members?  
+R. Regular and honest communication from foundation teams  
+
+233) Why is transparency a critical component in community engagement?  
+R. It builds trust and a sense of security among community members  
+
+234) Which aspect of Cardano's developer ecosystem is strengthened by its external partnerships?  
+R. Promoting diverse, open-source development and shared innovation  
+
+235) What advantage does separating the settlement and computation layers provide to Cardano?  
+R. It enhances both network security and the ability to scale components independently  
+
+236) How does the eUTXO model affect transaction validation in Cardano?  
+R. It allows simultaneous multi-state validations  
+
+237) What is a node in the context of blockchain network architectures?  
+R. An individual computer that participates in the network processing and validating transactions  
+
+238) What role does educational content play in building a Cardano community?  
+R. It empowers community members to understand and participate in the ecosystem  
+
+239) How does a transaction become a permanent part of a blockchain?  
+R. It is included in a block that is added to a chain and validated by consensus  
+
+240) Which of the following is an effective measure to prevent replay attacks?  
+R. Implementing unique session nonces  
+
+241) How does Cardano benefit from partnering with other blockchain networks?  
+R. By enabling cross-chain interoperability and expanding use cases  
+
+242) Which advantage does Proof-of-Stake offer over Proof-of-Work as implemented in Cardano?  
+R. Lower energy consumption  
+
+243) What mechanism does Cardano utilize to randomize slot leader selection?  
+R. Hash functions  
+
+244) How does cross-chain liquidity enhance market conditions in decentralized finance?  
+R. By enabling assets to flow freely across different blockchains  
+
+245) In what way does Cardano enhance transparency in charitable donations?  
+R. By using a public blockchain to track donations  
+
+246) Formal verification is critical in Cardano’s development process as it mathematically ensures that the code performs as intended and reduces the likelihood of bugs.  
+R. It minimizes errors by mathematically proving code correctness 
