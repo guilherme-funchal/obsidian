@@ -442,4 +442,147 @@ R. By leveraging formal verification methods through functional programming
 148) How do Cardano's global partnerships help in expanding its market reach?  
 R. Through diversified investments and collaborations across regions  
 
+149) Which of the following best describes a token policy script in Cardano?  
+R. A set of rules encoded in a script that governs the manipulation of native tokens  
+
+150) Which term best describes the decision-making framework in Cardano?  
+R. Decentralized  
+
+151) How is social media leveraged to enhance community engagement for Cardano?  
+R. By facilitating real-time conversations and sharing updates  
+
+152) How is a transaction broadcasted on the Cardano network?  
+R. It is sent to the network's nodes which then propagate it throughout the blockchain.  
+
+153) What is the significance of the era codenamed 'Alonzo' in Cardano?  
+R. Introduction of smart contracts support  
+
+154) Which operation is NOT typically associated with native tokens on Cardano?  
+R. Mining through proof-of-work  
+
+155) How does Cardano enable faster verification of transactions on its network?  
+R. Through a proof-of-stake consensus mechanism  
+
+156) What is a permissioned blockchain?  
+R. A blockchain that restricts who can participate in the network  
+
+157) What is the significance of understanding local regulations for blockchain initiatives operating in multiple jurisdictions?  
+R. It helps customize compliance measures to align with local legal requirements  
+
+158) Which phase introduced staking and delegation mechanisms in Cardano?  
+R. Shelley  
+
+159) How are multi-signature transactions implemented in Cardano?  
+R. By automatically splitting funds across multiple wallets.  
+
+160) What is Hydra in the context of Cardano’s scalability solutions?  
+R. A layer 2 protocol  
+
+161) How can blockchain projects address legal uncertainties in rapidly evolving regulatory environments?  
+R. By engaging proactively with regulatory bodies and legal experts  
+
+162) Which of the following is a benefit of using the extended UTxO model in Cardano?  
+R. Enhanced contract flexibility  
+
+163) What is a primary challenge often encountered in community development?  
+R. Managing diverse opinions and expectations  
+
+164) Which property of blockchain guarantees that each block is securely linked to its predecessor?  
+R. The inclusion of the previous block's hash in the current block  
+
+165) What role does due diligence play in adhering to legal aspects of blockchain transactions?  
+R. It verifies the identities of transacting parties  
+
+166) What does the minting of a native token on Cardano imply?  
+R. The creation of new units of the token according to predefined rules  
+
+167) Which aspect of blockchain compliance involves periodically reporting suspicious activities?  
+R. Suspicious Activity Reporting (SAR)  
+
+168) What is the key benefit of organizing community events such as meetups or webinars?  
+R. They foster direct interaction and collaboration among members  
+
+169) What is the function of including metadata in a Cardano transaction?  
+R. To attach additional information that can be read off-chain.  
+
+170) How are updates and improvements scheduled in Cardano's roadmap?  
+R. Periodic, milestone-based releases  
+
+171) Why should audit logs be stored in a tamper-proof environment?  
+R. To maintain evidence integrity  
+
+172) What is the significance of the UTxO model in Cardano transactions?  
+R. It provides a clear and traceable method for handling transaction outputs.  
+
+173) How does Cardano's approach to smart contracts ensure high security?  
+R. By using formal verification methods  
+
+174) How does delegation work within Cardano governance?  
+R. Stakeholders can delegate their votes to trusted parties  
+
+175) Which of the following is a key application of Cardano in the realm of education?  
+R. Providing a platform for secure, transparent record keeping  
+
+176) How does risk management contribute to blockchain security?  
+R. By identifying, assessing, and mitigating potential threats  
+
+177) What impact does decentralization have on the overall performance of a blockchain network?  
+R. It can improve resilience and uptime even if it may introduce scalability challenges.  
+
+178) What is one of the primary differences between Plutus and traditional smart contract languages on other platforms?  
+R. Plutus is built on a functional programming paradigm, reducing common security pitfalls  
+
+179) What ensures the secure implementation of updates in the Cardano roadmap?  
+R. Extensive community testing and formal verification  
+
+180) Which property of functional programming is critical for smart contract reliability?  
+R. Immutability  
+
+181) Which Cardano feature is most useful for micro-payment applications?  
+R. Low transaction fees  
+
+182) Why is compliance with industry standards important in blockchain security audits?  
+R. It ensures adherence to best practices and regulations  
+
+183) What makes Cardano a candidate for government and institutional blockchain solutions?  
+R. Transparent, secure, and compliant blockchain framework  
+
+184) What is the purpose of the treasury system in Cardano governance?  
+R. To fund future development and community proposals  
+
+185) What is meant by the term 'epoch' in the Ouroboros consensus mechanism?  
+R. A period defined by a set number of blocks  
+
+186) What is a key advantage of using formal verification methods during blockchain audits?  
+R. Mathematical proofs to verify correctness  
+
+187) How does decentralization improve trust among blockchain participants?  
+R. By eliminating the need for trust in a single party and distributing it among all participants.  
+
+188) What does the term 'smart contract' refer to?  
+R. Self-executing contracts with the agreement terms written into code  
+
+189) What benefit does Marlowe offer for financial contract modeling?  
+R. It provides a visual interface and predefined templates  
+
+190) Which feature of Haskell makes Plutus advantageous for smart contract development?  
+R. Strong type safety  
+
+191) What is the role of a validator script in a Cardano smart contract?  
+R. Validates transactions based on custom criteria  
+
+192) What role do community forums serve in the governance of Cardano?  
+R. They provide platforms for discussing proposals and sharing opinions  
+
+193) How can success in community engagement be measured within the Cardano ecosystem?  
+R. By analyzing metrics like active participation and feedback quality  
+
+194) In blockchain, what is a cryptographic hash?  
+R. A fixed-length string derived from input data using a hash function  
+
+195) Which of the following factors is essential for achieving decentralization in blockchain networks?  
+R. A distributed network where multiple nodes have equal voting power.  
+
+196) The multi-asset ledger enables Cardano to accommodate multiple token types, including native tokens, simultaneously with ADA.  
+R. It allows the blockchain to support various tokens alongside ADA without additional layers  
 
